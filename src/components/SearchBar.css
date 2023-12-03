@@ -1,0 +1,15 @@
+.container-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 15px;
+}
+
+.container-row > input {
+  width: 180px;
+  height: 30px;
+  outline: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  border: solid 1.5px #e6ebf2;
+}

@@ -1,0 +1,14 @@
+.pagination {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.pagination button {
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  border: solid 1.5px #e6ebf2;
+  border-radius: 5px;
+  cursor: pointer;
+}

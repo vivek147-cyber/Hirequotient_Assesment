@@ -1,0 +1,19 @@
+.table {
+  border-radius: 10px;
+  border: solid 1px #e6ebf2;
+}
+
+.title-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: solid 1px #e6ebf2;
+  color: #8e96a1;
+  font-weight: bold;
+}
+
+.title-row p {
+  width: 180px;
+}
